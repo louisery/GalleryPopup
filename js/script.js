@@ -1,0 +1,1 @@
+$('#imgGallery').galleryPopUp();

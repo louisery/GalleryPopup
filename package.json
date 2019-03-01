@@ -1,0 +1,14 @@
+{
+  "name": "gallerypopup",
+  "version": "1.0.0",
+  "description": "jquery plugin for image galleries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "Louise Ryste",
+  "license": "ISC"
+}
